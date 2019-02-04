@@ -19,7 +19,7 @@ fakeBuiltins={}
 for i in trusted_builtins:
     fakeBuiltins[i] = orig[i]
 
-alphabet = ' \n\rabcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ(),.:=_+[]'
+alphabet = ' \n\rabcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ(),.:=_[]'
 
 t1 = ''.join(chr(code) for code in xrange(256))
 t2 = []
