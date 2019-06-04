@@ -24,4 +24,11 @@ There is no WriteUp for the moment so you can do your own one.
 
 ## Then ?
 
-Have fun
+Connect to the first step
+
+`$ ssh pybeer1@127.0.0.1 -p 5555`
+
+password : pybeer1
+
+
+*Have fun*
