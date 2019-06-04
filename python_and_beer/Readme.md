@@ -1,4 +1,4 @@
-#Python and Beer - InterIUT 2019
+# Python and Beer - InterIUT 2019
 
 ## Informations
 
